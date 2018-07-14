@@ -1,11 +1,12 @@
 # SimpleCNN
-This project is designed for those beginners who are eager to learn some useful machine learning techniques in image processing
-. SimpleCNN includes techniques of Data Augmentation, transfer learning, etc.
-# Usage
+This project is designed for those beginners who are eager to learn some useful machine learning techniques in image processing.</br>
+</br>
+SimpleCNN includes techniques of Data Augmentation, transfer learning, etc. 
+## Usage
 unzip the file 'picture.zip'
 
 python3 104503530.py
-# Environment
+## Requirements
 Linux
 
 Python 3
