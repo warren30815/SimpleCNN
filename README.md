@@ -7,12 +7,9 @@ unzip the file 'picture.zip'
 
 python3 104503530.py
 ## Requirements
-Linux
-
-Python 3
-
-Keras 2
-
-Tensorflow 1.4
+* Linux Ubuntu
+* Python 3
+* Keras 2
+* Tensorflow 1.4
 
 # More detail in README.pdf
