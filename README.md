@@ -12,4 +12,5 @@ python3 104503530.py
 * Keras 2
 * Tensorflow 1.4
 
-# More detail in README.pdf
+# See more Chinese detail in README.pdf
+README.pdf為中文版觀念教學
