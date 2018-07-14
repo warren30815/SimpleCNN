@@ -3,6 +3,7 @@ This project is designed for those beginners who are eager to learn some useful 
 . SimpleCNN includes techniques of Data Augmentation, transfer learning, etc.
 # Usage
 unzip the file 'picture.zip'
+
 python3 104503530.py
 # Environment
 Linux
